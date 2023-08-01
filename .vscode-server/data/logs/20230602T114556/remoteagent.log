@@ -1,0 +1,126 @@
+2023-06-02 10:45:57.191 [info] 
+
+
+
+
+2023-06-02 10:45:57.765 [info] Extension host agent started.
+2023-06-02 10:45:59.040 [info] [127.0.0.1][6eb5cf38][ManagementConnection] New connection established.
+2023-06-02 10:46:02.363 [info] [127.0.0.1][e045fde2][ExtensionHostConnection] New connection established.
+2023-06-02 10:46:03.034 [info] [127.0.0.1][e045fde2][ExtensionHostConnection] <398> Launched Extension Host Process.
+2023-06-02 10:46:03.895 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-02 10:47:15.860 [info] Getting Manifest... pranaygp.vscode-css-peek
+2023-06-02 10:47:15.869 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-02 10:47:15.870 [info] Getting Manifest... tgreen7.vs-code-node-require
+2023-06-02 10:47:15.870 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-06-02 10:47:15.871 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-06-02 10:47:16.754 [info] Installing extension: pranaygp.vscode-css-peek
+2023-06-02 10:47:17.054 [info] Installing extension: ritwickdey.liveserver
+2023-06-02 10:47:17.070 [info] Installing extension: tgreen7.vs-code-node-require
+2023-06-02 10:47:17.167 [info] Installing extension: dbaeumer.vscode-eslint
+2023-06-02 10:47:17.373 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-06-02 10:47:47.450 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-02 10:47:51.503 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-06-02 10:47:53.946 [info] Extension signature is verified: pranaygp.vscode-css-peek
+2023-06-02 10:47:54.241 [info] Extension signature is verified: streetsidesoftware.code-spell-checker
+2023-06-02 10:47:54.479 [info] Extension signature is verified: tgreen7.vs-code-node-require
+2023-06-02 10:47:56.911 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.89e4bd9c-ec57-467a-aedf-38dd01c7b420: dbaeumer.vscode-eslint
+2023-06-02 10:47:57.628 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.89e4bd9c-ec57-467a-aedf-38dd01c7b420' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.89e4bd9c-ec57-467a-aedf-38dd01c7b420
+2023-06-02 10:47:57.665 [error] Error while installing the extension: dbaeumer.vscode-eslint
+2023-06-02 10:47:57.678 [error] Failed to install extension. dbaeumer.vscode-eslint
+2023-06-02 10:47:57.679 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.89e4bd9c-ec57-467a-aedf-38dd01c7b420' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:47:58.716 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.89e4bd9c-ec57-467a-aedf-38dd01c7b420' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:48:11.130 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.567cabbf-b700-4223-8942-ed2cea6786a8: pranaygp.vscode-css-peek
+2023-06-02 10:48:12.942 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.567cabbf-b700-4223-8942-ed2cea6786a8' -> '/home/julianrin56/.vscode-server/extensions/pranaygp.vscode-css-peek-4.2.0'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.567cabbf-b700-4223-8942-ed2cea6786a8
+2023-06-02 10:48:12.972 [error] Error while installing the extension: pranaygp.vscode-css-peek
+2023-06-02 10:48:12.997 [error] Failed to install extension. pranaygp.vscode-css-peek
+2023-06-02 10:48:12.998 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.567cabbf-b700-4223-8942-ed2cea6786a8' -> '/home/julianrin56/.vscode-server/extensions/pranaygp.vscode-css-peek-4.2.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:48:14.024 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.567cabbf-b700-4223-8942-ed2cea6786a8' -> '/home/julianrin56/.vscode-server/extensions/pranaygp.vscode-css-peek-4.2.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:48:14.860 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.c59cd17f-fd3e-4ed5-8959-bb78b1405eba: streetsidesoftware.code-spell-checker
+2023-06-02 10:48:16.730 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.c59cd17f-fd3e-4ed5-8959-bb78b1405eba' -> '/home/julianrin56/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.4'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.c59cd17f-fd3e-4ed5-8959-bb78b1405eba
+2023-06-02 10:48:16.748 [error] Error while installing the extension: streetsidesoftware.code-spell-checker
+2023-06-02 10:48:16.750 [error] Failed to install extension. streetsidesoftware.code-spell-checker
+2023-06-02 10:48:16.751 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.c59cd17f-fd3e-4ed5-8959-bb78b1405eba' -> '/home/julianrin56/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.4'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:48:17.753 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.c59cd17f-fd3e-4ed5-8959-bb78b1405eba' -> '/home/julianrin56/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.4'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:48:39.139 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.de67d96d-b4e5-4ff0-bbc7-f501c64a12ef: tgreen7.vs-code-node-require
+2023-06-02 10:48:43.644 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.de67d96d-b4e5-4ff0-bbc7-f501c64a12ef' -> '/home/julianrin56/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.de67d96d-b4e5-4ff0-bbc7-f501c64a12ef
+2023-06-02 10:48:43.660 [error] Error while installing the extension: tgreen7.vs-code-node-require
+2023-06-02 10:48:43.687 [error] Failed to install extension. tgreen7.vs-code-node-require
+2023-06-02 10:48:43.688 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.de67d96d-b4e5-4ff0-bbc7-f501c64a12ef' -> '/home/julianrin56/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:48:44.715 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.de67d96d-b4e5-4ff0-bbc7-f501c64a12ef' -> '/home/julianrin56/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:49:23.835 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.a6dba552-786b-4024-a97e-54db40914f45: ritwickdey.liveserver
+2023-06-02 10:49:41.138 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.a6dba552-786b-4024-a97e-54db40914f45' -> '/home/julianrin56/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.a6dba552-786b-4024-a97e-54db40914f45
+2023-06-02 10:49:41.163 [error] Error while installing the extension: ritwickdey.liveserver
+2023-06-02 10:49:41.186 [error] Failed to install extension. ritwickdey.liveserver
+2023-06-02 10:49:41.188 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.a6dba552-786b-4024-a97e-54db40914f45' -> '/home/julianrin56/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:49:42.212 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.a6dba552-786b-4024-a97e-54db40914f45' -> '/home/julianrin56/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:50:26.428 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-06-02 10:50:27.845 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-06-02 10:50:40.639 [info] Extension signature is verified: streetsidesoftware.code-spell-checker
+2023-06-02 10:50:46.057 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.f6544603-a65a-439a-b6c6-b2c4ace62720: streetsidesoftware.code-spell-checker
+2023-06-02 10:50:48.065 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.f6544603-a65a-439a-b6c6-b2c4ace62720' -> '/home/julianrin56/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.4'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.f6544603-a65a-439a-b6c6-b2c4ace62720
+2023-06-02 10:50:48.297 [error] Error while installing the extension: streetsidesoftware.code-spell-checker
+2023-06-02 10:50:48.301 [error] Failed to install extension. streetsidesoftware.code-spell-checker
+2023-06-02 10:50:48.301 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.f6544603-a65a-439a-b6c6-b2c4ace62720' -> '/home/julianrin56/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.4'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:50:49.357 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.f6544603-a65a-439a-b6c6-b2c4ace62720' -> '/home/julianrin56/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.4'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:51:01.498 [info] [127.0.0.1][6eb5cf38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-02 10:51:02.244 [info] [127.0.0.1][e045fde2][ExtensionHostConnection] <398> Extension Host Process exited with code: 0, signal: null.

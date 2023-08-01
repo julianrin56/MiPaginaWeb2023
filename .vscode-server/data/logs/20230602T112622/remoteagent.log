@@ -1,0 +1,56 @@
+2023-06-02 10:26:25.609 [info] 
+
+
+
+
+2023-06-02 10:26:25.610 [info] Extension host agent started.
+2023-06-02 10:26:25.850 [info] Started initializing default profile extensions in extensions installation folder. file:///home/julianrin56/.vscode-server/extensions
+2023-06-02 10:26:26.282 [info] [127.0.0.1][17f5cf69][ManagementConnection] New connection established.
+2023-06-02 10:26:26.337 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/julianrin56/.vscode-server/extensions
+2023-06-02 10:26:28.773 [info] [127.0.0.1][d80847af][ExtensionHostConnection] New connection established.
+2023-06-02 10:26:29.544 [info] [127.0.0.1][d80847af][ExtensionHostConnection] <180> Launched Extension Host Process.
+2023-06-02 10:26:30.045 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-02 10:37:08.027 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-02 10:37:08.949 [info] Installing extension: ritwickdey.liveserver
+2023-06-02 10:38:12.363 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-02 10:40:28.200 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-06-02 10:40:29.228 [info] Installing extension: dbaeumer.vscode-eslint
+2023-06-02 10:40:44.362 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-06-02 10:40:45.025 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.f4545cf7-9774-4ad5-b41d-bbfc98d98b53: dbaeumer.vscode-eslint
+2023-06-02 10:40:46.551 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.f4545cf7-9774-4ad5-b41d-bbfc98d98b53' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.f4545cf7-9774-4ad5-b41d-bbfc98d98b53
+2023-06-02 10:40:46.570 [error] Error while installing the extension: dbaeumer.vscode-eslint
+2023-06-02 10:40:46.586 [error] Failed to install extension. dbaeumer.vscode-eslint
+2023-06-02 10:40:46.664 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.f4545cf7-9774-4ad5-b41d-bbfc98d98b53' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:40:47.731 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.f4545cf7-9774-4ad5-b41d-bbfc98d98b53' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:40:58.976 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-06-02 10:40:59.834 [info] Installing extension: dbaeumer.vscode-eslint
+2023-06-02 10:41:12.141 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-06-02 10:41:12.705 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.67c9743f-640f-4447-9c92-f6183848ce2e: dbaeumer.vscode-eslint
+2023-06-02 10:41:13.429 [info] Rename failed because of EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.67c9743f-640f-4447-9c92-f6183848ce2e' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'. Deleted from extracted location /home/julianrin56/.vscode-server/extensions/.67c9743f-640f-4447-9c92-f6183848ce2e
+2023-06-02 10:41:13.448 [error] Error while installing the extension: dbaeumer.vscode-eslint
+2023-06-02 10:41:13.459 [error] Failed to install extension. dbaeumer.vscode-eslint
+2023-06-02 10:41:13.460 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.67c9743f-640f-4447-9c92-f6183848ce2e' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:41:14.478 [error] EACCES: EACCES: permission denied, rename '/home/julianrin56/.vscode-server/extensions/.67c9743f-640f-4447-9c92-f6183848ce2e' -> '/home/julianrin56/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0'
+    at e.ExtensionsScanner.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:15710)
+    at async e.ExtensionsScanner.extractUserExtension (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:12771)
+    at async G.v (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19468)
+    at async G.y (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:21080)
+    at async G.h (/home/julianrin56/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/server/node/server.main.js:153:19043)
+2023-06-02 10:41:22.350 [info] Extracted extension to /home/julianrin56/.vscode-server/extensions/.4b3ab6b6-1514-448e-9a23-f664577f0758: ritwickdey.liveserver
+2023-06-02 10:41:32.623 [info] [127.0.0.1][17f5cf69][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-02 10:41:36.295 [info] [127.0.0.1][d80847af][ExtensionHostConnection] <180> Extension Host Process exited with code: 0, signal: null.
